@@ -1,0 +1,22 @@
+{
+  "buttons": {
+    "success": "Succes",
+    "warning": "Advarsel",
+    "critical": "Kritisk",
+    "info": "Info",
+    "seconday": "Sekundær",
+    "go-to-page": "Gå til side 3"
+  },
+  "foods": {
+    "banana": "Banan",
+    "orange": "Appelsin",
+    "apple": "Æble",
+    "carrot": "Gulerod",
+    "broccoli": "Broccoli",
+    "ice-cream": "Is",
+    "lollipop": "Slikkepind",
+    "cake": "Kage",
+    "chocolate": "Chokolade",
+    "cookie": "Småkage"
+  }
+}
