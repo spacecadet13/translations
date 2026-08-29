@@ -1,0 +1,22 @@
+{
+  "buttons": {
+    "success": "Success",
+    "warning": "Warning",
+    "critical": "Critical",
+    "info": "Info",
+    "seconday": "Secondary",
+    "go-to-page": "Go to page 3"
+  },
+  "foods": {
+    "banana": "Banana",
+    "orange": "Orange",
+    "apple": "Apple",
+    "carrot": "Carrot",
+    "broccoli": "Broccoli",
+    "ice-cream": "Ice cream",
+    "lollipop": "Lollipop",
+    "cake": "Cake",
+    "chocolate": "Chocolate",
+    "cookie": "Cookie"
+  }
+}
