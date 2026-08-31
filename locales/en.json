@@ -2,15 +2,15 @@
   "language": {
     "english": "English",
     "danish": "Danish",
-    "dropdown-text": "Change the language of button labels and food names, which are downloaded from my GitHub repository.",
-    "already-logged-in": "You're already logged in as"
+    "dropdown-text": "Change the language of button labels and food names, which are downloaded from my GitHub repository."
   },
   "signup": {
     "log-in": "Log in",
     "log-out": "Log out",
     "sign-up": "Sign up",
     "first-name": "First name",
-    "last-name": "Last name"
+    "last-name": "Last name",
+    "already-logged-in": "You're already logged in as"
   },
   "buttons": {
     "success": "Success",
