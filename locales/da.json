@@ -7,6 +7,7 @@
   },
   "signup": {
     "log-in": "Log ind",
+    "log-out": "Log ud",
     "sign-up": "Opret bruger",
     "first-name": "Fornavn",
     "last-name": "Efternavn",
