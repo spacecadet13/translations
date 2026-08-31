@@ -1,4 +1,17 @@
 {
+  "language": {
+    "english": "English",
+    "danish": "Danish",
+    "dropdown-text": "Change the language of button labels and food names, which are downloaded from my GitHub repository.",
+  },
+  "signup": {
+    "log-in": "Log in",
+    "sign-up": "Sign up",
+    "first-name": "First name",
+    "last-name": "Last name",
+    "secondary": "",
+    "go-to-page": ""
+  },
   "buttons": {
     "success": "Success",
     "warning": "Warning",
