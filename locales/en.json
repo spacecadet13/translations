@@ -7,6 +7,7 @@
   },
   "signup": {
     "log-in": "Log in",
+    "log-out": "Log out",
     "sign-up": "Sign up",
     "first-name": "First name",
     "last-name": "Last name"
