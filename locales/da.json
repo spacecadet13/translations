@@ -9,7 +9,8 @@
     "log-in": "Log ind",
     "sign-up": "Opret bruger",
     "first-name": "Fornavn",
-    "last-name": "Efternavn"
+    "last-name": "Efternavn",
+    "already-logged-in": "Du er allerede logget ind som"
   },
   "buttons": {
     "success": "Succes",
