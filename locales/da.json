@@ -1,4 +1,16 @@
+
 {
+  "language": {
+    "english": "Engelsk",
+    "danish": "Dansk",
+    "dropdown-text": "Skift sprog på knapper og madnavne som downloades fra mit GitHub repository."
+  },
+  "signup": {
+    "log-in": "Log ind",
+    "sign-up": "Opret bruger",
+    "first-name": "Fornavn",
+    "last-name": "Efternavn"
+  },
   "buttons": {
     "success": "Succes",
     "warning": "Advarsel",
