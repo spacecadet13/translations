@@ -1,0 +1,14 @@
+{
+  "language": {
+    "english": "English",
+    "danish": "Danish"
+  },
+  "signup": {
+    "log-in": "Log in",
+    "log-out": "Log out",
+    "sign-up": "Sign up",
+    "first-name": "First name",
+    "last-name": "Last name",
+    "already-logged-in": "You're already logged in as"
+  }
+}
